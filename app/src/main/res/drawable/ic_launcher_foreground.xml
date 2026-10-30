@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Ícone provisório: uma pasta com brilho. Troque depois pela identidade final. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M32,40 L48,40 L53,45 L76,45 C78.2,45 80,46.8 80,49 L80,70 C80,72.2 78.2,74 76,74 L32,74 C29.8,74 28,72.2 28,70 L28,44 C28,41.8 29.8,40 32,40 Z" />
+    <path
+        android:fillColor="#FBBF24"
+        android:pathData="M66,51 L68,57 L74,59 L68,61 L66,67 L64,61 L58,59 L64,57 Z" />
+</vector>
